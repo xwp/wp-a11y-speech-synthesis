@@ -10,6 +10,8 @@ Make your browser speak when wp.a11y.speak() is called.
 **Stable tag:** trunk (master)  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
+[![Build Status](https://travis-ci.org/xwp/wp-a11y-speech-synthesis.png?branch=master)](https://travis-ci.org/xwp/wp-a11y-speech-synthesis) 
+
 ## Description ##
 
 Make your browser speak when <code>wp.a11y.speak()</code> is called. Requires a browser that <a href="http://caniuse.com/#feat=speech-synthesis">supports <code>speechSynthesis</code></a> (currently Chrome and Safari).
