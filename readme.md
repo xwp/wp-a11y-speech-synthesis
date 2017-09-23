@@ -7,7 +7,7 @@ Make your browser speak when wp.a11y.speak() is called.
 **Tags:** [a11y](https://wordpress.org/plugins/tags/a11y), [speech](https://wordpress.org/plugins/tags/speech), [tts](https://wordpress.org/plugins/tags/tts)  
 **Requires at least:** 4.2  
 **Tested up to:** trunk  
-**Stable tag:** trunk (master)  
+**Stable tag:** 0.2.0  
 **License:** [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)  
 
 [![Build Status](https://travis-ci.org/xwp/wp-a11y-speech-synthesis.svg?branch=master)](https://travis-ci.org/xwp/wp-a11y-speech-synthesis) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com) 
