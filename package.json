@@ -1,0 +1,31 @@
+{
+  "name": "a11y-speech-synthesis",
+  "version": "0.2.0",
+  "description": "Accessibility (a11y) Speech Synthesis",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwp/wp-a11y-speech-synthesis.git"
+  },
+  "author": "Weston Ruter",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/xwp/wp-a11y-speech-synthesis/issues"
+  },
+  "homepage": "https://github.com/xwp/wp-a11y-speech-synthesis#readme",
+  "devDependencies": {
+    "browserify-shim": "^3.8.14",
+    "eslint": "^4.5.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-jshint": "~1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-shell": "^2.1.0",
+    "grunt-wp-deploy": "^1.2.1",
+    "jscs": "^3.0.7",
+    "jshint": "^2.9.5"
+  }
+}
